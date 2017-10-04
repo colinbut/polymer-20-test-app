@@ -1,0 +1,7 @@
+{
+  "name": "polymer-20-test",
+  "short_name": "polymer-20-test",
+  "description": "Polymer 2.0 Test Application from Polymer Template",
+  "start_url": "/",
+  "display": "standalone"
+}
